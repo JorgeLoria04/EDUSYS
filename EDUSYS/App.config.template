@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <connectionStrings>
+        <add name="EDUSYS.Properties.Settings.EDUSYSConnectionString"
+             connectionString="Data Source=TU_SERVIDOR_LOCAL;Initial Catalog=EDUSYS;Integrated Security=True;TrustServerCertificate=True"
+             providerName="System.Data.SqlClient" />
+        <add name="EDUSYS.Properties.Settings.EDUSYSConnectionStringAzure"
+             connectionString="Data Source=TU_SERVIDOR_AZURE;Initial Catalog=EDUSYS;Persist Security Info=True;User ID=TU_USUARIO;Password=TU_CONTRASEÑA;TrustServerCertificate=True"
+             providerName="System.Data.SqlClient" />
+    </connectionStrings>
+</configuration>
