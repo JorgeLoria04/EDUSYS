@@ -1,1 +1,4 @@
+HEAD
 App.config
+EDUSYS/App.config
+842a73c (Add .gitignore to exclude App.config)
