@@ -16,7 +16,7 @@
   &lt;ConnectionString&gt;Data Source=edusysserver.database.windows.net;Initial Catalog=EDUSYS;Persist Security Info=True;User ID=LORIA;TrustServerCertificate=True&lt;/ConnectionString&gt;
   &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
 &lt;/SerializableConnectionString&gt;</DesignTimeValue>
-      <Value Profile="(Default)">Data Source=edusysserver.database.windows.net;Initial Catalog=EDUSYS;Persist Security Info=True;User ID=LORIA;Password=235689jP;TrustServerCertificate=True</Value>
+      <Value Profile="(Default)">Data Source=edusysserver.database.windows.net;Initial Catalog=EDUSYS;Persist Security Info=True;User ID=LORIA;TrustServerCertificate=True</Value>
     </Setting>
   </Settings>
 </SettingsFile>
